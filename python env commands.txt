@@ -1,0 +1,21 @@
+1. python -m venv venv
+
+2 .\venv\Scripts\Activate
+
+
+for specific python version-
+
+python3.9 -m venv myenv
+
+
+conda-
+
+1. conda --version
+
+2. conda create -n venv python=3.10
+
+3. conda activate venv
+
+4. python --version
+
+
